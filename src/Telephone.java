@@ -1,9 +1,9 @@
 /**
  * Created by GilRa1731814 on 2018-01-22.
  */
-public class telephone {
-    public String info;
-    public String numero;
+public class Telephone {
+    private String info;
+    private String numero;
 
 
     public String getInfo() {
